@@ -28,8 +28,12 @@ Lo primero sera crear descargar su imagen
 Cuanbdo ya tengamos su imagen, y con el comando para crear el contenedor tambien listaremos su carpeta con ls
 ![Crear su contenedor](https://github.com/AlejandroRocaMateu/hello-world-examen3Tri/blob/95d856a7b23bdf2b9ba795984d2a621f2579f8ac/CapturaCentosls.PNG)
 
+Nos mostrara el listado de la carpeta
 
 ## EJERCICIO3
+En este ejercicio crearemos un contenedor de httpd que es el servidor de Apache
+![Crear Contenedor]()
+
 
 ## EJERCICIO4
 
