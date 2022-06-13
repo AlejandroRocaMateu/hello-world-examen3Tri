@@ -61,6 +61,8 @@ Ahora cuando hayamos salido del editor, lo que haremos sera poner un tag, para s
 ![](https://github.com/AlejandroRocaMateu/hello-world-examen3Tri/blob/4e8d76996c18b0b5512ba98f7e590ed9988483b3/Captura--tag.PNG)
 
 El ultimo paso sera subirlo a nuestro docker para despues poder descargar la imagen
-![]()
+![](https://github.com/AlejandroRocaMateu/hello-world-examen3Tri/blob/65e52ab53603618918a8d7e363195f940099f3b3/Capturaversion.PNG)
+
+Y con acabamos con estos dos proyectos.
 
 
