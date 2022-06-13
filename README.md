@@ -50,3 +50,10 @@ En este apartado crearemos un archivo DockerFile y lo editaremos con el proyecto
 En el primer paso para hacer este ejercico, crearemos un directorio para guardar nuestro archivo.
 ![]()
 
+Paso siguiente sera crear el archivo Dockerfile dentro de nuestro repositorio
+![]()
+
+Cuando tengamos el archivo, lo editaremos cojn el vi
+
+![]()
+
