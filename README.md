@@ -54,6 +54,6 @@ Paso siguiente sera crear el archivo Dockerfile dentro de nuestro repositorio
 ![](https://github.com/AlejandroRocaMateu/hello-world-examen3Tri/blob/0e135e37eec5b7e3ee3d4146bcfff473a2711074/Capturatouch.PNG)
 
 
-Cuando tengamos el archivo, lo editaremos con el editor vi
+Cuando tengamos el archivo, lo editaremos con el editor vi y copiaremos las intrucciones que nos piden y saldremos.
 ![]()
 
