@@ -22,9 +22,11 @@ Cuando hayamos accedido a el, estaremos dentro como usuario root preterminado.
 ## EJERCICIO2
 En este ejercicio, crearemos un Contenedor CENTos y veremos su listado de su carpeta:
 
-Lo primero sera crear su contenedor y dandole el ls despues del nombre de la imagen
+Lo primero sera crear descargar su imagen
 ![IMAGEN]()
 
+Cuanbdo ya tengamos su imagen, y con el comando para crear el contenedor tambien listaremos su carpeta con ls
+![Crear su contenedor]()
 
 
 ## EJERCICIO3
