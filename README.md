@@ -43,4 +43,10 @@ Esto nos mostrara la carpeta ls con todo sus archivos
 
 ## APARTADO B
 
+En este apartado crearemos un archivo DockerFile y lo editaremos con el proyecto Tomcat y despues lo subiremos a nuestro perfil de DockerHub
+
 ## EJERCICIO TOMCAT
+
+En el primer paso para hacer este ejercico, crearemos un directorio para guardar nuestro archivo.
+![]()
+
