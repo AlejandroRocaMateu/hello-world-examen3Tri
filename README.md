@@ -26,8 +26,8 @@ Lo primero sera crear descargar su imagen
 ![IMAGEN](https://github.com/AlejandroRocaMateu/hello-world-examen3Tri/blob/a1d20dede23f1f6f75553d55b624e4333770e9f6/CapturaCentos.PNG)
 
 Cuanbdo ya tengamos su imagen, y con el comando para crear el contenedor tambien listaremos su carpeta con ls
-![Crear su contenedor]()
-a
+![Crear su contenedor](https://github.com/AlejandroRocaMateu/hello-world-examen3Tri/blob/95d856a7b23bdf2b9ba795984d2a621f2579f8ac/CapturaCentosls.PNG)
+
 
 ## EJERCICIO3
 
