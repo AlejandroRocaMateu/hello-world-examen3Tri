@@ -20,6 +20,12 @@ Cuando hayamos accedido a el, estaremos dentro como usuario root preterminado.
 
 
 ## EJERCICIO2
+En este ejercicio, crearemos un Contenedor CENTos y veremos su listado de su carpeta:
+
+Lo primero sera crear su contenedor y dandole el ls despues del nombre de la imagen
+![IMAGEN]()
+
+
 
 ## EJERCICIO3
 
