@@ -32,11 +32,11 @@ Nos mostrara el listado de la carpeta
 
 ## EJERCICIO3
 En este ejercicio crearemos un contenedor de httpd que es el servidor de Apache
-![Crear Contenedor]()
+![Crear Contenedor](https://github.com/AlejandroRocaMateu/hello-world-examen3Tri/blob/9d4df8d0d23dffe605436d8e3b6497a51b694f13/Capturahttpd.PNG)
 
 
 ## EJERCICIO4
-
+En este
 
 
 ## APARTADO B
