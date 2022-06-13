@@ -37,8 +37,9 @@ En este ejercicio crearemos un contenedor de httpd que es el servidor de Apache
 
 ## EJERCICIO4
 En este aparatado creamos un contenedor de debian y mostramos su contenido de una carpeta suya con el parametro -w
-![Mostrar su contenido]()
-a
+![Mostrar su contenido](https://github.com/AlejandroRocaMateu/hello-world-examen3Tri/blob/1275ec21bc26c92151869704e00d701538804381/CapturaDebian.PNG)
+
+Esto nos mostrara la carpeta ls con todo sus archivos
 
 ## APARTADO B
 
