@@ -27,7 +27,7 @@ Lo primero sera crear descargar su imagen
 
 Cuanbdo ya tengamos su imagen, y con el comando para crear el contenedor tambien listaremos su carpeta con ls
 ![Crear su contenedor]()
-
+a
 
 ## EJERCICIO3
 
