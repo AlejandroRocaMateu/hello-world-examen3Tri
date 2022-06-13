@@ -38,7 +38,7 @@ En este ejercicio crearemos un contenedor de httpd que es el servidor de Apache
 ## EJERCICIO4
 En este aparatado creamos un contenedor de debian y mostramos su contenido de una carpeta suya con el parametro -w
 ![Mostrar su contenido]()
-
+a
 
 ## APARTADO B
 
