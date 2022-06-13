@@ -58,5 +58,9 @@ Cuando tengamos el archivo, lo editaremos con el editor vi y copiaremos las intr
 ![](https://github.com/AlejandroRocaMateu/hello-world-examen3Tri/blob/14e8e72668367b6c3c27df2e43a8588f98c851df/Capturavi.PNG)
 
 Ahora cuando hayamos salido del editor, lo que haremos sera poner un tag, para saber el nombre del archivo y del contenedor
+![](https://github.com/AlejandroRocaMateu/hello-world-examen3Tri/blob/4e8d76996c18b0b5512ba98f7e590ed9988483b3/Captura--tag.PNG)
+
+El ultimo paso sera subirlo a nuestro docker para despues poder descargar la imagen
 ![]()
+
 
