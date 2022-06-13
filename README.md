@@ -48,7 +48,7 @@ En este apartado crearemos un archivo DockerFile y lo editaremos con el proyecto
 ## EJERCICIO TOMCAT
 
 En el primer paso para hacer este ejercico, crearemos un directorio para guardar nuestro archivo.
-![]()
+![](https://github.com/AlejandroRocaMateu/hello-world-examen3Tri/blob/8a363148188f643becfe3ba1b20120c122ee5a09/CapturaMk.PNG)
 
 Paso siguiente sera crear el archivo Dockerfile dentro de nuestro repositorio
 ![]()
