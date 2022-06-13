@@ -23,7 +23,7 @@ Cuando hayamos accedido a el, estaremos dentro como usuario root preterminado.
 En este ejercicio, crearemos un Contenedor CENTos y veremos su listado de su carpeta:
 
 Lo primero sera crear descargar su imagen
-![IMAGEN]()
+![IMAGEN](https://github.com/AlejandroRocaMateu/hello-world-examen3Tri/blob/a1d20dede23f1f6f75553d55b624e4333770e9f6/CapturaCentos.PNG)
 
 Cuanbdo ya tengamos su imagen, y con el comando para crear el contenedor tambien listaremos su carpeta con ls
 ![Crear su contenedor]()
